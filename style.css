@@ -1,0 +1,19 @@
+.select-btn {
+    display: block;
+    
+}
+
+.select {
+    border-radius: 50% !important;
+}
+
+.main-head {
+    background-image: url(./Assets/How\ to\ Start\ Homeschooling\ Effectively\ Instagram\ Carousel\ \(11\).png);
+}
+
+.mid-head {
+    background-image: url(./Assets/How\ to\ Start\ Homeschooling\ Effectively\ Instagram\ Carousel\ \(11\).png);
+    height: 70vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
